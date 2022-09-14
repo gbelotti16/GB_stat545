@@ -1,4 +1,4 @@
-# GB_stat545
+# stat545demo
 
 here is my analysis 
 
